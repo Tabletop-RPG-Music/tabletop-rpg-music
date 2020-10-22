@@ -13,5 +13,7 @@
       "path": "/packs/tabletop-rpg-music.db",
       "entity": "Playlist"
     }
-  ]
+  ],
+  "url": "https://www.patreon.com/tabletoprpgmusic/",
+  "manifest": "https://raw.githubusercontent.com/Tabletop-RPG-Music/tabletop-rpg-music/master/module.json"
 }
