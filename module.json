@@ -15,6 +15,6 @@
     }
   ],
   "url": "https://github.com/Tabletop-RPG-Music/tabletop-rpg-music/",
-  "manifest": "https://raw.githubusercontent.com/Tabletop-RPG-Music/tabletop-rpg-music/master/module.json",
+  "manifest": "https://raw.githubusercontent.com/Tabletop-RPG-Music/tabletop-rpg-music/v1.2.1/module.json",
   "download": "https://github.com/Tabletop-RPG-Music/tabletop-rpg-music/archive/master.zip"
 }
