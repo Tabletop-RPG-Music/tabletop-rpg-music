@@ -2,20 +2,31 @@
   "name": "tabletop-rpg-music",
   "title": "Tabletop RPG Music",
   "description": "<p>A free and evergrowing collection of Fantasy and Sci Fi tracks for Foundry users. Support me on <a href='https://www.patreon.com/tabletoprpgmusic' title='Patreon'>Patreon</a> to help me keep writing!</p>",
-  "version": "1.3.0",
-  "minimumCoreVersion": "0.6.5",
-  "compatibleCoreVersion": "0.8.8",
   "author": "Tabletop RPG Music",
+  "authors": [],
+  "url": "https://github.com/Tabletop-RPG-Music/tabletop-rpg-music/",
+  "flags": {},
+  "version": "1.4.0",
+  "minimumCoreVersion": "0.8.9",
+  "compatibleCoreVersion": "0.8.9",
   "scripts": ["scripts/tabletop-rpg-music.js"],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
   "packs": [
     {
       "name": "tabletop-rpg-music",
       "label": "Tabletop RPG Music",
       "path": "/packs/tabletop-rpg-music.db",
-      "entity": "Playlist"
+      "entity": "Playlist",
+      "private": false
     }
   ],
-  "url": "https://github.com/Tabletop-RPG-Music/tabletop-rpg-music/",
+  "system": [],
+  "dependencies": [],
+  "socket": false,
   "manifest": "https://raw.githubusercontent.com/Tabletop-RPG-Music/tabletop-rpg-music/master/module.json",
-  "download": "https://github.com/Tabletop-RPG-Music/tabletop-rpg-music/archive/master.zip"
+  "download": "https://github.com/Tabletop-RPG-Music/tabletop-rpg-music/archive/master.zip",
+  "protected": false,
+  "coreTranslation": false
 }
