@@ -6,6 +6,7 @@
   "minimumCoreVersion": "0.6.5",
   "compatibleCoreVersion": "0.8.8",
   "author": "Tabletop RPG Music",
+  "scripts": ["scripts/tabletop-rpg-music.js"],
   "packs": [
     {
       "name": "tabletop-rpg-music",
