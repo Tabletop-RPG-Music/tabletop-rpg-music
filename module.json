@@ -6,7 +6,7 @@
   "authors": [],
   "url": "https://github.com/Tabletop-RPG-Music/tabletop-rpg-music/",
   "flags": {},
-  "version": "1.5.1",
+  "version": "1.6.0",
   "minimumCoreVersion": "0.8.8",
   "compatibleCoreVersion": "9",
   "scripts": ["scripts/tabletop-rpg-music.js"],
