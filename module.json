@@ -27,12 +27,10 @@
       "name": "tabletop-rpg-music",
       "label": "Tabletop RPG Music",
       "path": "/packs/tabletop-rpg-music.db",
-      "entity": "Playlist",
+      "type": "Playlist",
       "private": false
     }
   ],
-  "system": [],
-  "dependencies": [],
   "socket": false,
   "manifest": "https://raw.githubusercontent.com/Tabletop-RPG-Music/tabletop-rpg-music/master/module.json",
   "download": "https://github.com/Tabletop-RPG-Music/tabletop-rpg-music/archive/master.zip",
