@@ -11,12 +11,12 @@
   ],
   "url": "https://github.com/Tabletop-RPG-Music/tabletop-rpg-music/",
   "flags": {},
-  "version": "2.1.0",
+  "version": "2.1.1",
   "minimumCoreVersion": "0.8.8",
-  "compatibleCoreVersion": "10",
+  "compatibleCoreVersion": "11",
   "compatibility": {
     "minimum": "0.8.8",
-    "verified": "10"
+    "verified": "11"
   },
   "scripts": ["scripts/tabletop-rpg-music.js"],
   "esmodules": [],
